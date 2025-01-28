@@ -1,7 +1,7 @@
 Requirements / MCSW Method:
 
 	Must:
-		User Interface
+		User Interface (Website)
 		User Accounts/Authentication
 		Media Publication
 		Database
@@ -13,11 +13,15 @@ Requirements / MCSW Method:
 		Have article searching via(keyword, title, author)
 		Have User searching
 		Provide Hosting Requirements
+*		Blind reviewing papers- the editor can review everything, but only some comments can be seen by the author (Maybe Could)
+*		Editor Account status verification (before article publication)
+*		Optional Contact forms for Authors and Editors (potentially for business/recruiting accounts as well).
 		
 		
 	Could:
 		Migrate the Website onto a web server
 		Provide Migration Plan
+*		Download option for posters/articles (verify with CIRT team)
 		
 
 	Won't:
@@ -26,21 +30,34 @@ Requirements / MCSW Method:
 		Have individual User posting
 
 
-Specific Requirements:
-	User interaface:
+Specific Requirement Breakdowns:
+	User interface:
 			- login page
 			- article submissions page
 			- article review page
 			- article status page
+*			- FAQ page, resource page
+*			- ability to edit future webpage designs (adjust webpage view)
 	Online Journal functions:
 			- Users viewing articles
 				- Search bar (via keyword, Title, Author)
 			- Users submitting articles
+*				a. A page for submissions (Authors portal)
+*					i. Track and monitor progress during the review 
 			- Admins reviewing articles
+*				b. A page for review (reviewers portal) 
+*					ii. A way for reviewers to access the papers and submit their reviews on the individual papers 
+*					iii. Editor Authorization/push to publication
+*			- A Publication site where published papers can be viewed
+*				- Sorting/Search method for all papers
+					
 
 Thoughts:
 	utilize same system for posterboards and journal articles (just render poster boards separately)
 			
+==========================================================================================================================================================
+Archived Requirement(s) listed below
+==========================================================================================================================================================
 
 Functional Requirements: 
 1.	Central repository in the form of a website 
@@ -89,6 +106,5 @@ Non-functional Requirements
 -	Filter key words while searching
 -	Option to download (free)
 -	Some type of contact for authors and editors
-
 
  
