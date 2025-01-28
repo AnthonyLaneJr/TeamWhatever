@@ -46,27 +46,27 @@ Functional Requirements:
 1.	Central repository in the form of a website 
 2.	A digital catalog of student research posters (to be accessible in the future) 
 3.	 Online academic journal 
-a.	A page for submission (authors portal) 
-b.	A page for review (reviewers portal) 
-i.	Track and monitor progress during the review 
-ii.	A way for them to access the papers and submit their reviews on the individual papers 
-iii.	Editors have a way to give final decisions and contacting authors 
-iv.	Blind reviewing papers- the editor can review everything, but only some comments can be seen by the author
+	a.	A page for submission (authors portal) 
+	b.	A page for review (reviewers portal) 
+		i.	Track and monitor progress during the review 
+		ii.	A way for them to access the papers and submit their reviews on the individual papers 
+		iii.	Editors have a way to give final decisions and contacting authors 
+		iv.	Blind reviewing papers- the editor can review everything, but only some comments can be seen by the author
 4.	A Publication site where accepted papers can be published 
-a.	An organization/ sorting method of all papers 
-i.	Name, date, category, search bar, etc. 
-b.	FAQ page, resource page, ability to edit future designs (adjust publication page view)
+	a.	An organization/ sorting method of all papers 
+		i.	Name, date, category, search bar, etc. 
+	b.	FAQ page, resource page, ability to edit future designs (adjust publication page view)
 5.	Free to download posters and papers
 
 
 Non-Functional Requirements: 
 1.	Login credentials (UT email) to submit to make sure they’re a student
-a.	Also, to track the review process of the student's paper 
+	a.	Also, to track the review process of the student's paper 
 2.	General account to view that you log into 
-a.	Save your comments or posts on individual papers, and maybe also have a favorite or saved section on specific papers or research information. 
+	a.	Save your comments or posts on individual papers, and maybe also have a favorite or saved section on specific papers or research information. 
 3.	Allows for multiple accounts and users on the website at one time 
 4.	Takes you to another tab if you’re logging in to submit a paper and keeps you in the same tab/ page if you’re logging in to view the posts and papers 
-a.	Otherwise, it has a general CIRT opening screen about the program and the research they do 
+	a.	Otherwise, it has a general CIRT opening screen about the program and the research they do 
 5.	Tracking for paper review progress is updated every 5 seconds and has a visual representation of what stage the paper is at 
 
 Functional Requirements
