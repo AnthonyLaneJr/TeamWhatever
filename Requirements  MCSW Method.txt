@@ -1,0 +1,46 @@
+Requirements / MCSW Method:
+
+	Must:
+		User Interface
+		User Accounts/Authentication
+		Media Publication
+		Database
+		Email services (weekly/daily wrap-ups for publications as well as submission notifications)
+		Way to change static information on the website.
+
+
+	Should:
+		Have article searching via(keyword, title, author)
+		Have User searching
+		Provide Hosting Requirements
+		
+		
+	Could:
+		Migrate the Website onto a web server
+		Provide Migration Plan
+		
+
+	Won't:
+		Verify domain availability
+		Provide Hosting for the site
+		Have individual User posting
+
+
+Specific Requirements:
+	User interaface:
+			- login page
+			- article submissions page
+			- article review page
+			- article status page
+	Online Journal functions:
+			- Users viewing articles
+				- Search bar (via keyword, Title, Author)
+			- Users submitting articles
+			- Admins reviewing articles
+
+Thoughts:
+	utilize same system for posterboards and journal articles (just render poster boards separately)
+			
+
+
+ 
