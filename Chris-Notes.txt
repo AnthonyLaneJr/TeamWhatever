@@ -1,0 +1,9 @@
+Things to merge:
+
+Ivory Search plugin
+searchfilter function in the 2025 theme's functions.php
+
+Note:
+
+If the search forms don't merge or something else breaks, don't worry about it
+I'll fix it after everything else is merged
