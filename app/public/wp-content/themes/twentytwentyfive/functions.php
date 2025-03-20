@@ -156,3 +156,20 @@ if ( ! function_exists( 'twentytwentyfive_format_binding' ) ) :
 		}
 	}
 endif;
+
+// for the advanced search form
+function searchfilter($query) {
+	if ($query->is_search && !is_admin()) {
+		if(!empty($_GET['title'])){
+			$query->set('s', $_GET['title']);
+		}
+		if(!empty($_GET['author'])){
+			$query->set('author', $_GET['author']);
+		}
+		if(!empty($_GET['tag'])){
+			$query->set('tag', $_GET['tag']);
+		}
+	}
+	}
+	
+add_action('pre_get_posts','searchfilter');
