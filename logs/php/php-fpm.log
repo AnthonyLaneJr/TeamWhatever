@@ -1,0 +1,77 @@
+[13-Feb-2025 11:48:49] NOTICE: fpm is running, pid 37712
+[13-Feb-2025 11:48:49] NOTICE: ready to handle connections
+[21-Feb-2025 14:12:08] NOTICE: Terminating ...
+[21-Feb-2025 14:12:08] NOTICE: Terminating ...
+[21-Feb-2025 14:12:08] NOTICE: exiting, bye-bye!
+[21-Feb-2025 14:12:28] NOTICE: fpm is running, pid 85160
+[21-Feb-2025 14:12:28] NOTICE: ready to handle connections
+[21-Feb-2025 14:16:27] NOTICE: Terminating ...
+[21-Feb-2025 14:16:27] NOTICE: Terminating ...
+[21-Feb-2025 14:16:27] NOTICE: exiting, bye-bye!
+[21-Feb-2025 14:16:44] NOTICE: fpm is running, pid 85346
+[21-Feb-2025 14:16:44] NOTICE: ready to handle connections
+[25-Feb-2025 10:09:49] NOTICE: Terminating ...
+[25-Feb-2025 10:09:49] NOTICE: Terminating ...
+[25-Feb-2025 10:09:49] NOTICE: exiting, bye-bye!
+[25-Feb-2025 10:10:37] NOTICE: fpm is running, pid 23548
+[25-Feb-2025 10:10:37] NOTICE: ready to handle connections
+[25-Feb-2025 11:38:46] NOTICE: Terminating ...
+[25-Feb-2025 11:38:46] NOTICE: Terminating ...
+[25-Feb-2025 11:38:46] NOTICE: exiting, bye-bye!
+[25-Feb-2025 11:38:55] NOTICE: fpm is running, pid 25511
+[25-Feb-2025 11:38:55] NOTICE: ready to handle connections
+[27-Feb-2025 09:05:28] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[27-Feb-2025 09:05:28] ERROR: FPM initialization failed
+[27-Feb-2025 09:05:29] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[27-Feb-2025 09:05:29] ERROR: FPM initialization failed
+[27-Feb-2025 09:05:29] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[27-Feb-2025 09:05:29] ERROR: FPM initialization failed
+[27-Feb-2025 09:05:30] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[27-Feb-2025 09:05:30] ERROR: FPM initialization failed
+[04-Mar-2025 10:38:29] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[04-Mar-2025 10:38:29] ERROR: FPM initialization failed
+[04-Mar-2025 10:38:29] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[04-Mar-2025 10:38:29] ERROR: FPM initialization failed
+[04-Mar-2025 10:38:30] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[04-Mar-2025 10:38:30] ERROR: FPM initialization failed
+[04-Mar-2025 10:38:30] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[04-Mar-2025 10:38:30] ERROR: FPM initialization failed
+[04-Mar-2025 11:48:48] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[04-Mar-2025 11:48:48] ERROR: FPM initialization failed
+[04-Mar-2025 11:48:48] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[04-Mar-2025 11:48:48] ERROR: FPM initialization failed
+[04-Mar-2025 11:48:49] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[04-Mar-2025 11:48:49] ERROR: FPM initialization failed
+[04-Mar-2025 11:48:49] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[04-Mar-2025 11:48:49] ERROR: FPM initialization failed
+[05-Mar-2025 08:08:45] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[05-Mar-2025 08:08:45] ERROR: FPM initialization failed
+[05-Mar-2025 08:08:46] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[05-Mar-2025 08:08:46] ERROR: FPM initialization failed
+[05-Mar-2025 08:08:46] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[05-Mar-2025 08:08:46] ERROR: FPM initialization failed
+[05-Mar-2025 08:08:47] ERROR: Another FPM instance seems to already listen on /Users/rileyrutigliano/Library/Application Support/Local/run/VeiHO6duy/php/php-fpm.socket
+[05-Mar-2025 08:08:47] ERROR: FPM initialization failed
+[06-Mar-2025 09:16:20] NOTICE: fpm is running, pid 55134
+[06-Mar-2025 09:16:20] NOTICE: ready to handle connections
+[19-Mar-2025 16:22:59] NOTICE: fpm is running, pid 11654
+[19-Mar-2025 16:22:59] NOTICE: ready to handle connections
+[19-Mar-2025 22:35:24] NOTICE: fpm is running, pid 14210
+[19-Mar-2025 22:35:24] NOTICE: ready to handle connections
+[19-Mar-2025 22:41:05] NOTICE: Terminating ...
+[19-Mar-2025 22:41:05] NOTICE: Terminating ...
+[19-Mar-2025 22:41:05] NOTICE: exiting, bye-bye!
+[25-Mar-2025 11:13:31] NOTICE: fpm is running, pid 50452
+[25-Mar-2025 11:13:31] NOTICE: ready to handle connections
+[25-Mar-2025 11:50:55] NOTICE: Terminating ...
+[25-Mar-2025 11:50:55] NOTICE: Terminating ...
+[25-Mar-2025 11:50:55] NOTICE: exiting, bye-bye!
+[26-Mar-2025 22:00:23] NOTICE: fpm is running, pid 66555
+[26-Mar-2025 22:00:23] NOTICE: ready to handle connections
+[26-Mar-2025 22:45:28] NOTICE: Terminating ...
+[26-Mar-2025 22:45:28] NOTICE: Terminating ...
+[26-Mar-2025 22:45:28] NOTICE: exiting, bye-bye!
+[26-Mar-2025 22:45:47] NOTICE: fpm is running, pid 67612
+[26-Mar-2025 22:45:47] NOTICE: ready to handle connections
+[27-Mar-2025 11:10:58] NOTICE: fpm is running, pid 21935
+[27-Mar-2025 11:10:58] NOTICE: ready to handle connections

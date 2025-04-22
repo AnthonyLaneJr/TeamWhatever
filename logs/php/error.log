@@ -1,0 +1,34 @@
+[25-Mar-2025 15:18:02 UTC] PHP Warning:  Undefined property: stdClass::$id in /Users/libbydivers/Local Sites/benchmark-2-final/app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 735
+[25-Mar-2025 15:18:02 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in /Users/libbydivers/Local Sites/benchmark-2-final/app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 738
+[27-Mar-2025 02:00:29 UTC] Cron reschedule event error for hook: wp_version_check, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"twicedaily","args":[],"interval":43200}
+[22-Apr-2025 03:45:58 UTC] PHP Fatal error:  Cannot redeclare searchfilter() (previously declared in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\themes\twentytwentyfive\functions.php:161) in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\themes\twentytwentyfive\functions.php on line 188
+[22-Apr-2025 03:45:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[22-Apr-2025 03:45:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[22-Apr-2025 03:46:26 UTC] PHP Fatal error:  Cannot redeclare searchfilter() (previously declared in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\themes\twentytwentyfive\functions.php:161) in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\themes\twentytwentyfive\functions.php on line 188
+[22-Apr-2025 03:46:26 UTC] PHP Fatal error:  Cannot redeclare searchfilter() (previously declared in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\themes\twentytwentyfive\functions.php:161) in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\themes\twentytwentyfive\functions.php on line 188
+[22-Apr-2025 06:13:40 UTC] PHP Parse error:  syntax error, unexpected identifier "text" in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\custom-submission.php on line 34
+[22-Apr-2025 06:16:52 UTC] PHP Warning:  Undefined variable $current_user in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\custom-submission.php on line 34
+[22-Apr-2025 06:16:52 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\custom-submission.php on line 34
+[22-Apr-2025 06:21:52 UTC] PHP Warning:  Undefined variable $current_user in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\custom-submission.php on line 34
+[22-Apr-2025 06:21:52 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\custom-submission.php on line 34
+[22-Apr-2025 06:22:02 UTC] PHP Warning:  Undefined variable $current_user in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\custom-submission.php on line 34
+[22-Apr-2025 06:22:02 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\custom-submission.php on line 34
+[22-Apr-2025 07:59:48 UTC] PHP Warning:  Undefined array key "poster upload" in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\form-handler\index.php on line 17
+[22-Apr-2025 07:59:48 UTC] PHP Warning:  Undefined array key "user" in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\form-handler\index.php on line 19
+[22-Apr-2025 08:06:08 UTC] PHP Warning:  require_once(C:\Users\tonyl\Local Sites\benchmark3\app\public\\plugins\custom-submissions\form-handlerwp-load.php): Failed to open stream: No such file or directory in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\form-handler\index.php on line 10
+[22-Apr-2025 08:06:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\tonyl\Local Sites\benchmark3\app\public\\plugins\custom-submissions\form-handlerwp-load.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\form-handler\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\form-handler\index.php on line 10
+[22-Apr-2025 08:06:51 UTC] PHP Warning:  Undefined variable $path in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\form-handler\index.php on line 8
+[22-Apr-2025 08:06:51 UTC] PHP Warning:  require_once(wp-load.php): Failed to open stream: No such file or directory in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\form-handler\index.php on line 8
+[22-Apr-2025 08:06:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'wp-load.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\form-handler\index.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\form-handler\index.php on line 8
+[22-Apr-2025 08:13:19 UTC] PHP Warning:  Undefined array key "poster upload" in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\form-handler\index.php on line 20
+[22-Apr-2025 08:13:19 UTC] PHP Warning:  Undefined array key "user" in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\form-handler\index.php on line 22
+[22-Apr-2025 08:22:42 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\form-handler\index.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\Users\tonyl\Local Sites\benchmark3\app\public\wp-content\plugins\custom-submissions\form-handler\index.php on line 27

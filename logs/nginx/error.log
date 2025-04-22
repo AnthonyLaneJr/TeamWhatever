@@ -1,0 +1,141 @@
+2025/02/27 09:05:28 [emerg] 40930#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:28 [emerg] 40930#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:28 [emerg] 40930#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:28 [emerg] 40930#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:28 [emerg] 40930#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:28 [emerg] 40930#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:28 [emerg] 40930#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:28 [emerg] 40930#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:28 [emerg] 40930#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:28 [emerg] 40930#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:28 [emerg] 40930#0: still could not bind()
+2025/02/27 09:05:31 [emerg] 40968#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:31 [emerg] 40968#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:31 [emerg] 40968#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:31 [emerg] 40968#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:31 [emerg] 40968#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:31 [emerg] 40968#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:31 [emerg] 40968#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:31 [emerg] 40968#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:31 [emerg] 40968#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:31 [emerg] 40968#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:31 [emerg] 40968#0: still could not bind()
+2025/02/27 09:05:34 [emerg] 40975#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:34 [emerg] 40975#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:34 [emerg] 40975#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:34 [emerg] 40975#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:34 [emerg] 40975#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:34 [emerg] 40975#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:34 [emerg] 40975#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:34 [emerg] 40975#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:34 [emerg] 40975#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:34 [emerg] 40975#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:34 [emerg] 40975#0: still could not bind()
+2025/02/27 09:05:37 [emerg] 40977#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:37 [emerg] 40977#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:37 [emerg] 40977#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:37 [emerg] 40977#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:37 [emerg] 40977#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:37 [emerg] 40977#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:37 [emerg] 40977#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:37 [emerg] 40977#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:37 [emerg] 40977#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/02/27 09:05:37 [emerg] 40977#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/02/27 09:05:37 [emerg] 40977#0: still could not bind()
+2025/03/04 10:38:29 [emerg] 61787#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:29 [emerg] 61787#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:29 [emerg] 61787#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:29 [emerg] 61787#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:29 [emerg] 61787#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:29 [emerg] 61787#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:29 [emerg] 61787#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:29 [emerg] 61787#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:29 [emerg] 61787#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:29 [emerg] 61787#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:29 [emerg] 61787#0: still could not bind()
+2025/03/04 10:38:32 [emerg] 61807#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:32 [emerg] 61807#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:32 [emerg] 61807#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:32 [emerg] 61807#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:32 [emerg] 61807#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:32 [emerg] 61807#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:32 [emerg] 61807#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:32 [emerg] 61807#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:32 [emerg] 61807#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:32 [emerg] 61807#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:32 [emerg] 61807#0: still could not bind()
+2025/03/04 10:38:35 [emerg] 61816#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:35 [emerg] 61816#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:35 [emerg] 61816#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:35 [emerg] 61816#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:35 [emerg] 61816#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:35 [emerg] 61816#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:35 [emerg] 61816#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:35 [emerg] 61816#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:35 [emerg] 61816#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:35 [emerg] 61816#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:35 [emerg] 61816#0: still could not bind()
+2025/03/04 10:38:38 [emerg] 61819#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:38 [emerg] 61819#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:38 [emerg] 61819#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:38 [emerg] 61819#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:38 [emerg] 61819#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:38 [emerg] 61819#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:38 [emerg] 61819#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:38 [emerg] 61819#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:38 [emerg] 61819#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 10:38:38 [emerg] 61819#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 10:38:38 [emerg] 61819#0: still could not bind()
+2025/03/04 11:48:47 [emerg] 63633#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 11:48:47 [emerg] 63633#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 11:48:47 [emerg] 63633#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 11:48:47 [emerg] 63633#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 11:48:47 [emerg] 63633#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 11:48:47 [emerg] 63633#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 11:48:47 [emerg] 63633#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 11:48:47 [emerg] 63633#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 11:48:47 [emerg] 63633#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 11:48:47 [emerg] 63633#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 11:48:47 [emerg] 63633#0: still could not bind()
+2025/03/04 11:48:50 [emerg] 63657#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 11:48:50 [emerg] 63657#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/04 11:48:50 [emerg] 63657#0: bind() to 127.0.0.1:10003 failed (48: Address already in use)
+2025/03/04 11:48:50 [emerg] 63657#0: bind() to [::1]:10003 failed (48: Address already in use)
+2025/03/17 21:07:34 [error] 7580#18988: *27 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-cron.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:10009", host: "mainsite1.local"
+2025/03/18 11:41:53 [error] 22120#10272: *9327 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=bookmar&per_page=20&type=term&_locale=user HTTP/1.1", upstream: "fastcgi://127.0.0.1:10032", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:53 [error] 22120#10272: *9331 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/media?search=bookmar&per_page=20&_locale=user HTTP/1.1", upstream: "fastcgi://127.0.0.1:10032", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:54 [error] 22120#10272: *9329 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=bookmar&per_page=20&type=post-format&_locale=user HTTP/1.1", upstream: "fastcgi://127.0.0.1:10033", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:54 [error] 22120#10272: *9329 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=bookmar&per_page=20&type=post-format&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:54 [error] 22120#10272: *9327 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=bookmar&per_page=20&type=term&_locale=user HTTP/1.1", upstream: "fastcgi://127.0.0.1:10033", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:54 [error] 22120#10272: *9331 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/media?search=bookmar&per_page=20&_locale=user HTTP/1.1", upstream: "fastcgi://127.0.0.1:10033", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:56 [error] 22120#10272: *9336 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=ar&per_page=20&type=post&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:56 [error] 22120#10272: *9339 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=ar&per_page=20&type=post-format&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:56 [error] 22120#10272: *9337 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=ar&per_page=20&type=term&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:56 [error] 22120#10272: *9338 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/media?search=ar&per_page=20&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:56 [error] 22120#10272: *9340 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=art&per_page=20&type=post&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:56 [error] 22120#10272: *9343 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=art&per_page=20&type=post-format&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:56 [error] 22120#10272: *9341 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=art&per_page=20&type=term&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:56 [error] 22120#10272: *9342 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/media?search=art&per_page=20&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:56 [error] 22120#10272: *9344 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=arti&per_page=20&type=post&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:56 [error] 22120#10272: *9347 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=arti&per_page=20&type=post-format&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:56 [error] 22120#10272: *9345 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=arti&per_page=20&type=term&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:56 [error] 22120#10272: *9346 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/media?search=arti&per_page=20&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:57 [error] 22120#10272: *9348 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=article&per_page=20&type=post&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:57 [error] 22120#10272: *9351 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/media?search=article&per_page=20&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:57 [error] 22120#10272: *9349 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=article&per_page=20&type=term&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:57 [error] 22120#10272: *9350 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=article&per_page=20&type=post-format&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:58 [error] 22120#10272: *9352 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=articl&per_page=20&type=post&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:58 [error] 22120#10272: *9355 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/media?search=articl&per_page=20&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:58 [error] 22120#10272: *9353 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=articl&per_page=20&type=term&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:41:58 [error] 22120#10272: *9354 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=articl&per_page=20&type=post-format&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:42:21 [error] 22120#10272: *9358 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=poster&per_page=20&type=post-format&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:42:21 [error] 22120#10272: *9359 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/media?search=poster&per_page=20&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:42:22 [error] 22120#10272: *9362 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=posters&per_page=20&type=post&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:42:22 [error] 22120#10272: *9363 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=posters&per_page=20&type=term&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:42:22 [error] 22120#10272: *9364 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=posters&per_page=20&type=post-format&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:42:22 [error] 22120#10272: *9365 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/media?search=posters&per_page=20&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:42:23 [error] 22120#10272: *9366 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/search?search=poster&per_page=20&type=post-format&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/03/18 11:42:23 [error] 22120#10272: *9367 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-json/wp/v2/media?search=poster&per_page=20&_locale=user HTTP/1.1", upstream: "fastcgi://php", host: "benchmark2.local", referrer: "http://benchmark2.local/wp-admin/site-editor.php?postId=twentytwentyfive%2F%2Fhome&postType=wp_template&canvas=edit"
+2025/04/22 03:50:01 [error] 26188#22320: *3156 directory index of "C:/Users/tonyl/Local Sites/benchmark3/app/public/wp-content/plugins/custom-submissions/" is forbidden, client: 127.0.0.1, server: , request: "GET /wp-content/plugins/custom-submissions/ HTTP/1.1", host: "benchmark3.local"
+2025/04/22 03:50:02 [error] 26188#22320: *3160 directory index of "C:/Users/tonyl/Local Sites/benchmark3/app/public/wp-content/plugins/custom-submissions/" is forbidden, client: 127.0.0.1, server: , request: "GET /wp-content/plugins/custom-submissions/ HTTP/1.1", host: "benchmark3.local"
+2025/04/22 03:50:03 [error] 26188#22320: *3163 directory index of "C:/Users/tonyl/Local Sites/benchmark3/app/public/wp-content/plugins/custom-submissions/" is forbidden, client: 127.0.0.1, server: , request: "GET /wp-content/plugins/custom-submissions/ HTTP/1.1", host: "benchmark3.local"
